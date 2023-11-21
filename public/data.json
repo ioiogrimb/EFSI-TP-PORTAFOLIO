@@ -1,0 +1,174 @@
+{
+    "logotext": "Ioel Grimberg",
+    "meta": {
+        "title": "Ioel Grimberg",
+        "description": "I’m Ioel Grimberg data scientist _ Front End devloper, currently working in Pakistan"
+    },
+    "introdata": {
+        "title": "I’m Ioel Grimberg",
+        "animated": {
+            "first": "I love coding",
+            "second": "I code websites",
+            "third": "I develop mobile apps"
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+        "your_img_url": "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d"
+    },
+    "dataabout": {
+        "title": "A bit about my self",
+        "aboutme": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies."
+    },
+    "worktimeline": [
+        {
+            "jobtitle": "Designer of week",
+            "where": "Mercado Pago",
+            "date": "2020"
+        },
+        {
+            "jobtitle": "Designer of week",
+            "where": "Google",
+            "date": "2019"
+        },
+        {
+            "jobtitle": "Designer of week",
+            "where": "Aple",
+            "date": "2019"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Python",
+            "value": 90
+        },
+        {
+            "name": "C#",
+            "value": 85
+        },
+        {
+            "name": "Javascript",
+            "value": 80
+        },
+        {
+            "name": "React",
+            "value": 78
+        },
+        {
+            "name": "Unity",
+            "value": 85
+        }
+    ],
+    "services": [
+        {
+            "title": "UI & UX Design",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin."
+        },
+        {
+            "title": "Mobile Apps",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin."
+        },
+        {
+            "title": "Wordpress Design",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin."
+        }
+    ],
+    "creations": [
+        {
+            "id": 1,
+            "img": "https://fastly.picsum.photos/id/43/1280/831.jpg?hmac=glK-rQ0ppFClW-lvjk9FqEWKog07XkOxJf6Xg_cU9LI",
+            "date": "20-11-23",
+            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "link": "/portfolio/1"
+        },
+        {
+            "id": 2,
+            "img": "https://fastly.picsum.photos/id/51/5000/3333.jpg?hmac=9dZb89mIRt-mPQpI_ScJAxVsNI82SFCGOuiKsvGSchY",
+            "date": "20-11-23",
+            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "link": "/portfolio/2"
+        },
+        {
+            "id": 3,
+            "img": "https://fastly.picsum.photos/id/229/400/400.jpg?grayscale&hmac=mqMaWMS7MjJa_cWJ7RU5EwiIGzwXNXOdPfPc3Z10Gto",
+            "date": "20-11-23",
+            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "link": "/portfolio/3"
+        },
+        {
+            "id": 4,
+            "img": "https://fastly.picsum.photos/id/155/400/600.jpg?grayscale&hmac=uQXf6Y7M0AxkJKtoz5L2QHuiYThqJ6uCT1CEJrLlMH8",
+            "date": "20-11-23",
+            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "link": "/portfolio/4"
+        },
+        {
+            "id": 5,
+            "img": "https://fastly.picsum.photos/id/203/400/300.jpg?grayscale&hmac=-alE8enKcukGGo6KPK26gQSJ4X3VxPp6Caig5Bx7Cwo",
+            "date": "20-11-23",
+            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "link": "/portfolio/5"
+        },
+        {
+            "id": 6,
+            "img": "https://fastly.picsum.photos/id/230/1500/1500.jpg?hmac=heg53PqHqX88fhXrDyqlqJK8lLJXGRudsOXMKB3BZtc",
+            "date": "20-11-23",
+            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "link": "/portfolio/6"
+        },
+        {
+            "id": 7,
+            "img": "https://fastly.picsum.photos/id/536/400/600.jpg?grayscale&hmac=znDksPh693DM0sXbxIFgXajodDhy3_v7HtreaFsLHEE",
+            "date": "20-11-23",
+            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "link": "/portfolio/7"
+        },
+        {
+            "id": 8,
+            "img": "https://fastly.picsum.photos/id/13/400/300.jpg?grayscale&hmac=M0vG71fSYqo-oaWJxvod-eS8dDIVCWj8aNCeh5-P_uQ",
+            "date": "20-11-23",
+            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "link": "/portfolio/8"
+        },
+        {
+            "id": 9,
+            "img": "https://fastly.picsum.photos/id/849/400/400.jpg?grayscale&hmac=8wzLNvMJCoWZoYnRD-WMN7PD2BRvJtYhfLFyawUJ4pY",
+            "date": "20-11-23",
+            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "link": "/portfolio/9"
+        },
+        {
+            "id": 10,
+            "img": "https://fastly.picsum.photos/id/628/400/550.jpg?grayscale&hmac=kVVAzrId99kUMRkqfN94CQ-CXVci0D12GTop896j7KI",
+            "date": "20-11-23",
+            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "link": "/portfolio/10"
+        },
+        {
+            "id": 11,
+            "img": "https://fastly.picsum.photos/id/26/400/400.jpg?grayscale&hmac=MRHTxLtFc4uWdFkRsm3J-UclEcVlI99NDq-wnj2Ypo4",
+            "date": "20-11-23",
+            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "link": "/portfolio/11"
+        },
+        {
+            "id": 12,
+            "img": "https://fastly.picsum.photos/id/443/400/700.jpg?grayscale&hmac=DFrqqp5aqkwPQ7xV8DfYC3LkEuAPHWKq6-kATqRPDvI",
+            "date": "20-11-23",
+            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "link": "/portfolio/12"
+        }
+    ],
+    "contactConfig": {
+        "YOUR_EMAIL": "46956818@est.ort.edu.ar",
+        "YOUR_FONE": "(555)123-4567",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+        "YOUR_SERVICE_ID": "service_id",
+        "YOUR_TEMPLATE_ID": "template_id",
+        "YOUR_USER_ID": "user_id"
+    },
+    "socialprofils": {
+        "github": "https://github.com",
+        "facebook": "https://facebook.com",
+        "linkedin": "https://linkedin.com",
+        "twitter": "https://twitter.com"
+    }
+}
