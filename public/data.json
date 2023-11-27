@@ -1,5 +1,4 @@
-{
-    "logotext": "Ioel Grimberg",
+"logotext": "Ioel Grimberg",
     "meta": {
         "title": "Ioel Grimberg",
         "description": "I’m Ioel Grimberg data scientist _ Front End devloper, currently working in Pakistan"
@@ -76,84 +75,85 @@
             "id": 1,
             "img": "https://fastly.picsum.photos/id/43/1280/831.jpg?hmac=glK-rQ0ppFClW-lvjk9FqEWKog07XkOxJf6Xg_cU9LI",
             "date": "20-11-23",
-            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "description": "catalogo de productos parte 2",
             "link": "/portfolio/1"
+
         },
         {
             "id": 2,
             "img": "https://fastly.picsum.photos/id/51/5000/3333.jpg?hmac=9dZb89mIRt-mPQpI_ScJAxVsNI82SFCGOuiKsvGSchY",
             "date": "20-11-23",
-            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "description": "Prácticando ES6",
             "link": "/portfolio/2"
         },
         {
             "id": 3,
             "img": "https://fastly.picsum.photos/id/229/400/400.jpg?grayscale&hmac=mqMaWMS7MjJa_cWJ7RU5EwiIGzwXNXOdPfPc3Z10Gto",
             "date": "20-11-23",
-            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "description": "catalogo de productos parte 1",
             "link": "/portfolio/3"
         },
         {
             "id": 4,
             "img": "https://fastly.picsum.photos/id/155/400/600.jpg?grayscale&hmac=uQXf6Y7M0AxkJKtoz5L2QHuiYThqJ6uCT1CEJrLlMH8",
             "date": "20-11-23",
-            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "description": "TP HARDWARE",
             "link": "/portfolio/4"
         },
         {
             "id": 5,
             "img": "https://fastly.picsum.photos/id/203/400/300.jpg?grayscale&hmac=-alE8enKcukGGo6KPK26gQSJ4X3VxPp6Caig5Bx7Cwo",
             "date": "20-11-23",
-            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "description": "TP COMIDAS",
             "link": "/portfolio/5"
         },
         {
             "id": 6,
             "img": "https://fastly.picsum.photos/id/230/1500/1500.jpg?hmac=heg53PqHqX88fhXrDyqlqJK8lLJXGRudsOXMKB3BZtc",
             "date": "20-11-23",
-            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "description": "TP DOCUMENTACION",
             "link": "/portfolio/6"
         },
         {
             "id": 7,
             "img": "https://fastly.picsum.photos/id/536/400/600.jpg?grayscale&hmac=znDksPh693DM0sXbxIFgXajodDhy3_v7HtreaFsLHEE",
             "date": "20-11-23",
-            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "description": "TP PERSONAJES",
             "link": "/portfolio/7"
         },
         {
             "id": 8,
             "img": "https://fastly.picsum.photos/id/13/400/300.jpg?grayscale&hmac=M0vG71fSYqo-oaWJxvod-eS8dDIVCWj8aNCeh5-P_uQ",
             "date": "20-11-23",
-            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "description": "TP PIZZAS",
             "link": "/portfolio/8"
         },
         {
             "id": 9,
             "img": "https://fastly.picsum.photos/id/849/400/400.jpg?grayscale&hmac=8wzLNvMJCoWZoYnRD-WMN7PD2BRvJtYhfLFyawUJ4pY",
             "date": "20-11-23",
-            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "description": "TP SALARIOS",
             "link": "/portfolio/9"
         },
         {
             "id": 10,
             "img": "https://fastly.picsum.photos/id/628/400/550.jpg?grayscale&hmac=kVVAzrId99kUMRkqfN94CQ-CXVci0D12GTop896j7KI",
             "date": "20-11-23",
-            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "description": "TP COMPUMUNDO",
             "link": "/portfolio/10"
         },
         {
             "id": 11,
             "img": "https://fastly.picsum.photos/id/26/400/400.jpg?grayscale&hmac=MRHTxLtFc4uWdFkRsm3J-UclEcVlI99NDq-wnj2Ypo4",
             "date": "20-11-23",
-            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "description": "TP ORTFLIX",
             "link": "/portfolio/11"
         },
         {
             "id": 12,
             "img": "https://fastly.picsum.photos/id/443/400/700.jpg?grayscale&hmac=DFrqqp5aqkwPQ7xV8DfYC3LkEuAPHWKq6-kATqRPDvI",
             "date": "20-11-23",
-            "description": "The wisdom of life consists in the elimination of non-essentials.",
+            "description": "TP EFSI",
             "link": "/portfolio/12"
         }
     ],
